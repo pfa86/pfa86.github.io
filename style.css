@@ -6,10 +6,15 @@
 h1 {
   font-family: Times, Arial, Helvetica, sans-serif;
   font-weight: bold;
+  font-size: 70pt;
   color: #00FF00
 }
 #dernierp {
   font-family: Times, Arial, Helvetica, sans-serif;
   font-weight: bold;
   color: #00FF00
+}
+h1 {
+   padding: 0.5em;
+   border: 5px solid #000000;
 }
